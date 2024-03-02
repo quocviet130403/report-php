@@ -1,0 +1,186 @@
+version: '3'
+
+networks:
+  laravel:
+
+services:
+  site:
+    build:
+      context: ./dockerfiles
+      dockerfile: nginx.dockerfile
+    container_name: nginx-laravel-upgrade-chart
+
+    restart: unless-stopped
+    ports:
+      - 81:80
+    volumes:
+      - ./src:/var/www/html:delegated
+    depends_on:
+      - php
+      # - redis
+      - mysql
+    logging:
+      options:
+        max-size: "500M"
+        max-file: "5"
+    networks:
+      - laravel
+  mysql:
+    image: mariadb:10.6
+    container_name: mysql-laravel-upgrade-chart
+    restart: unless-stopped
+    tty: true
+    cap_add:
+      - SYS_NICE  # CAP_SYS_NICE
+    logging:
+      options:
+        max-size: "500M"
+        max-file: "5"
+    ports:
+      - 3310:3306
+    environment:
+      MYSQL_DATABASE: laravel-upgrade-chart
+      MYSQL_USER: laravel-upgrade-chart
+      MYSQL_PASSWORD: laravel-upgrade-chart@2023
+      MYSQL_ROOT_PASSWORD: laravel-upgrade-chart@2023
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    volumes:
+      - ./mysql:/var/lib/mysql
+    networks:
+      - laravel
+
+  php:
+    build:
+      context: ./dockerfiles
+      dockerfile: php.dockerfile
+    container_name: php-laravel-upgrade-chart
+    restart: unless-stopped
+    logging:
+      options:
+        max-size: "500M"
+        max-file: "5"
+    volumes:
+      - ./src:/var/www/html:delegated
+      - ./config/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+    networks:
+      - laravel
+
+  # redis:
+  #   image: redis:alpine 
+  #   container_name: redis-laravel-upgrade-chart
+  #   restart: unless-stopped
+  #   logging:
+  #     options:
+  #       max-size: "500M"
+  #       max-file: "5"
+  #   command: redis-server --appendonly yes --replica-read-only no
+  #   networks:
+  #     - laravel
+
+  composer:
+    build:
+      context: ./dockerfiles
+      dockerfile: php.dockerfile
+    volumes:
+      - ./src:/var/www/html
+    depends_on:
+      - php
+    entrypoint: [ 'composer', '--ignore-platform-reqs' ]
+    logging:
+      options:
+        max-size: "500M"
+        max-file: "5"
+    networks:
+      - laravel
+
+  # npm:
+  #   image: node:current-alpine
+  #   container_name: npm-laravel-upgrade-chart
+  #   volumes:
+  #     - ./src:/var/www/html
+  #   working_dir: /var/www/html
+  #   entrypoint: [ 'npm' ]
+  #   logging:
+  #     options:
+  #       max-size: "500M"
+  #       max-file: "5"
+  #   networks:
+  #     - laravel
+
+  artisan:
+    build:
+      context: ./dockerfiles
+      dockerfile: php.dockerfile
+    container_name: artisan-laravel-upgrade-chart
+    volumes:
+      - ./src:/var/www/html:delegated
+    depends_on:
+      - mysql
+    working_dir: /var/www/html
+    logging:
+      options:
+        max-size: "500M"
+        max-file: "5"
+    entrypoint: [ 'php', '/var/www/html/artisan' ]
+    networks:
+      - laravel
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: pma-laravel-upgrade-chart
+    links:
+      - mysql
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 1
+      UPLOAD_LIMIT: 300M
+    restart: always
+    ports:
+      - 8081:80
+    logging:
+      options:
+        max-size: "50M"
+        max-file: "5"
+    networks:
+      - laravel
+  supervisor:
+    build:
+      context: ./dockerfiles
+      dockerfile: supervisor.dockerfile
+    container_name: supervisor-laravel-upgrade-chart
+    volumes:
+      - ./src:/var/www/html
+    networks:
+      - laravel
+  # laravel-echo-server:
+  #   image: oanhnn/laravel-echo-server:latest
+  #   container_name: laravel-echo-laravel-upgrade-chart
+  #   depends_on:
+  #     - redis
+  #   environment:
+  #     LARAVEL_ECHO_SERVER_AUTH_HOST: http://localhost
+  #     LARAVEL_ECHO_SERVER_DEBUG: 'true'
+  #     LARAVEL_ECHO_SERVER_DB: redis
+  #     REDIS_HOST: redis
+  #     REDIS_PORT: 6379
+  #     REDIS_PREFIX: ""
+  #     REDIS_DB: 0
+  #   networks:
+  #     - laravel
+  #   ports:
+  #     - 6002:6001
+  #   restart: unless-stopped
+  cron:
+    build:
+      context: ./dockerfiles
+      dockerfile: cron.dockerfile
+    container_name: cron-laravel-upgrade-chart
+    logging:
+      options:
+        max-size: "500M"
+        max-file: "5"
+    volumes:
+      - ./src:/var/www/html
+    networks:
+      - laravel

@@ -1,0 +1,377 @@
+@import 'general';
+.login-parent{
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    right: 15px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    @media screen and (min-width: $xsmall) {
+        left: calc(50% + 15px);
+        left: -webkit-calc(50% - 15px);
+        left:    -moz-calc(50% - 15px);
+        width: 550px;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+}
+.login-ctn{
+    @media screen and (min-width: $xsmall) {
+        width: 550px;
+    }
+    .login-logo{
+        position: relative;
+        min-height: 250px;
+        margin-top: 50px;
+        @media screen and (min-width: $xsmall){
+            margin-top: 0px;
+            min-height: auto;
+        }
+        img{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            width: auto;
+            height: 80%;
+            @media screen and (min-width: $xsmall){
+                max-width: 80%;
+                height: auto;
+            }
+        }
+    }
+
+    .login-form{
+        //display: none;
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .login-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .login-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+
+    .forgot-pass-form{
+        display: none;
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .forgot-pass-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .forgot-pass-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+
+    .pin-code-form{
+        display: none;
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .pin-code-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .forgot-pass-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+
+    .pass-reset-form{
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .pass-reset-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .pass-reset-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+
+    .signup-form{
+        display: none;
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .signup-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .signup-terms-label{
+            color: white;
+            a{
+                color: white;
+                text-decoration: underline;
+                &:hover{
+                    color: white;
+                }
+            }
+        }
+        .signup-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+
+    .consultant-form{
+        display: none;
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .consultant-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .signup-terms-label{
+            color: white;
+            a{
+                color: white;
+                text-decoration: underline;
+                &:hover{
+                    color: white;
+                }
+            }
+        }
+        .signup-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+
+    .register-company-form{
+        display: none;
+        border: none;
+        @media screen and (min-width: $xsmall){
+            border-right: 2px solid rgba(255, 255, 255, .8);
+            padding-right: 5%;
+        }
+        .input-group-text{
+            background-color: white;
+        }
+        .register-company-input{
+            height: 50px;
+            background-color: white;
+            border: none;
+            &:focus{
+                box-shadow: none;
+                background-color: rgba(white, .9);
+            }
+        }
+        .register-company-terms-label{
+            color: white;
+            a{
+                color: white;
+                text-decoration: underline;
+                &:hover{
+                    color: white;
+                }
+            }
+        }
+        .register-company-buttons{
+            color: white;
+            font-weight: bold;
+            font-size: .9em;
+            a{
+                color: white;
+            }
+            input[type=submit]{
+                float: right;
+            }
+        }
+        .status{
+            color: lightyellow;
+            margin-top: 30px;
+            font-style: italic;
+        }
+    }
+}
+
+//Terms and Conditions
+.main-tos-ctn{
+    position: relative;
+    width: 95%;
+    margin: 0px auto 10px auto;
+    padding: 65px 10px 10px 10px;
+    background-color: rgba(white, .8);
+    .tos-title{
+        position: absolute;
+        top:0px;
+        left: 0px;
+        right: 0px;
+        height: 50px;
+        padding: 10px;
+        color: #555555;
+        background-color: lightgray;
+        text-align: center;
+        font-size: 20px;
+    }
+}
+
+//Footer desing
+.footer-container{
+    .footer-row{
+        padding-top: 10px;
+        background-color: whitesmoke;
+        
+        .footer-menu{
+            ul{
+                list-style-type: none;
+                padding-left: 0px;
+                li{
+                    color: #555555;
+                    font-weight: bold;
+                    font-style: italic;
+                }
+            }
+        }
+        .footer-lang{
+            float: right;
+            max-width: 300px;
+        }
+    }
+}

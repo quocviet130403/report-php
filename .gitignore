@@ -1,0 +1,16 @@
+node_modules
+src/public/js/app.js
+./server/node_modules
+
+/.idea
+/.idea/*
+.idea
+.idea/*
+
+mysql
+mysql/*
+
+src-backup
+src/vendor
+src/.env
+src/node_modules

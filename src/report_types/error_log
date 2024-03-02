@@ -1,0 +1,1069 @@
+[11-Jan-2024 19:50:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[11-Jan-2024 19:54:51 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[11-Jan-2024 19:54:51 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[11-Jan-2024 19:54:51 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[11-Jan-2024 19:56:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[11-Jan-2024 19:56:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[11-Jan-2024 19:56:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[11-Jan-2024 19:59:54 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Jan-2024 19:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Jan-2024 19:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Jan-2024 19:59:54 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Jan-2024 19:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Jan-2024 19:59:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[12-Jan-2024 06:40:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[12-Jan-2024 06:40:42 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[12-Jan-2024 06:40:42 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[12-Jan-2024 06:40:42 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[12-Jan-2024 06:42:25 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[12-Jan-2024 06:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[12-Jan-2024 06:42:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[26-Jan-2024 13:22:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[26-Jan-2024 14:02:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[28-Jan-2024 10:16:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[28-Jan-2024 10:17:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[28-Jan-2024 10:26:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[31-Jan-2024 15:13:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[31-Jan-2024 15:13:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[31-Jan-2024 15:13:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[31-Jan-2024 15:13:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[31-Jan-2024 15:13:27 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[31-Jan-2024 15:13:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[31-Jan-2024 15:13:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[31-Jan-2024 15:14:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[31-Jan-2024 15:14:44 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[31-Jan-2024 15:14:44 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[31-Jan-2024 15:14:44 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[31-Jan-2024 15:15:01 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[31-Jan-2024 15:15:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[31-Jan-2024 15:15:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.semje.com/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[31-Jan-2024 16:15:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[31-Jan-2024 16:16:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[31-Jan-2024 16:16:08 UTC] PHP Warning:  Undefined variable $pos in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 19
+[31-Jan-2024 16:16:08 UTC] PHP Warning:  Undefined variable $pos in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 19
+[31-Jan-2024 16:16:08 UTC] PHP Warning:  Undefined variable $img in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 20
+[31-Jan-2024 16:16:08 UTC] PHP Warning:  Undefined variable $html in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 20
+[31-Jan-2024 16:17:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[31-Jan-2024 16:17:33 UTC] PHP Warning:  Undefined variable $pos in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 19
+[31-Jan-2024 16:17:33 UTC] PHP Warning:  Undefined variable $pos in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 19
+[31-Jan-2024 16:17:33 UTC] PHP Warning:  Undefined variable $img in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 20
+[31-Jan-2024 16:17:33 UTC] PHP Warning:  Undefined variable $html in /home/semjecom/public_html/nogd.semje.com/report_types/mlc_pdf_report_Hovedrapport.php on line 20
+[03-Feb-2024 05:51:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 05:51:45 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 05:51:45 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 05:51:45 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 05:51:51 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 05:51:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 05:51:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:27:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 06:27:50 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 06:27:50 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 06:27:50 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 06:27:57 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:27:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:34:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 06:34:07 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 06:34:07 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 06:34:07 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 06:34:13 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:34:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:34:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 06:44:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duo Profile.php on line 4
+[03-Feb-2024 06:47:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duo Profile.php on line 4
+[03-Feb-2024 06:49:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Employee profile.php on line 2
+[03-Feb-2024 06:57:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Employee profile.php on line 2
+[03-Feb-2024 07:01:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Employee profile.php on line 2
+[03-Feb-2024 07:22:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duo Profile.php on line 4
+[03-Feb-2024 08:19:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 08:19:32 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 08:19:34 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 08:19:35 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 08:19:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 08:29:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:29:57 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:29:57 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:29:57 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:30:04 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:30:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:30:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:30:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:31:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:31:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:31:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:31:06 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:31:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:31:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:32:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:32:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:32:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:32:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:32:24 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:32:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:33:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:33:10 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:33:10 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:33:10 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:33:16 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:33:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:33:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:34:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:34:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:34:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:34:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:34:14 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:34:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:34:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:36:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:36:37 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:36:37 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:36:37 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:36:43 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:36:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:36:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:56:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 08:56:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 08:56:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 08:56:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 08:57:04 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:57:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 08:57:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 09:02:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 09:02:04 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 09:02:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 09:02:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 09:02:04 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:05 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:05 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:06 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:06 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:07 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:08 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:09 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:10 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:10 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 09:02:11 UTC] PHP Warning:  Undefined array key "otherpages" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Tag/SetHtmlPageFooter.php on line 48
+[03-Feb-2024 10:15:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 10:15:37 UTC] PHP Warning:  Undefined array key "trans" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 10
+[03-Feb-2024 10:15:37 UTC] PHP Warning:  Undefined array key "trans" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 21
+[03-Feb-2024 10:15:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 10:16:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 10:17:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:17:06 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:17:08 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:17:09 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:17:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:18:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:18:15 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:18:18 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:18:19 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:18:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:23:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:23:47 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:23:49 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:23:50 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:23:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:26:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:26:25 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:26:28 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:26:29 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:26:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:31:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:31:54 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:31:56 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:31:57 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:31:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:32:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:32:50 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:32:51 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:32:52 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:32:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:36:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:36:06 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:36:08 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:36:09 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:36:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:37:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:37:21 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:37:23 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:37:23 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:37:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:38:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:38:06 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:38:08 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:38:09 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:38:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:40:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:40:35 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:40:37 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:40:38 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:40:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:41:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:41:07 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:41:08 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:41:09 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:41:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:46:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:46:45 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:46:47 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:46:47 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:46:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:47:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:47:00 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:47:02 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:47:03 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:47:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:47:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:47:50 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:47:52 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:47:53 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:47:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:48:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:48:26 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:48:29 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:48:30 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:48:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:49:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:49:13 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:49:15 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:49:16 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:49:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:51:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:51:24 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:51:26 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:51:26 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:51:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:52:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:52:01 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:52:03 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:52:04 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:52:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:52:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 10:52:18 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 10:52:20 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 10:52:20 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 10:52:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 11:18:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 5
+[03-Feb-2024 11:18:13 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 432
+[03-Feb-2024 11:18:15 UTC] PHP Warning:  Undefined variable $method_list in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 930
+[03-Feb-2024 11:18:16 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 11:18:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Main Report.php on line 991
+[03-Feb-2024 11:58:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 11:58:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 11:58:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 11:58:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 11:58:46 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 11:58:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 11:58:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 11:58:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 11:58:48 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 11:58:48 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 11:58:48 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 11:58:54 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 11:58:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 11:58:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:00:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:00:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:00:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:00:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:00:15 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:00:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:00:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:05:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:05:06 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:05:06 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:05:06 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:05:13 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:05:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:05:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:10:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:11:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:11:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:11:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:11:06 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:11:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:11:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:11:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:11:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:11:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:11:55 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:11:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:11:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:12:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:14:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:15:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:15:26 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:15:26 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:15:26 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:15:33 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:15:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:15:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:18:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:18:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:18:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:18:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:18:56 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:18:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:18:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:41:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:42:05 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:42:05 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:42:05 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:42:19 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:42:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:50:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:50:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:50:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:50:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:50:22 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:50:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 12:50:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 12:50:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 12:50:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 12:50:30 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:50:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 12:50:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:05:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:05:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:05:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:05:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:05:14 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:05:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:05:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:05:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:05:41 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:05:41 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:05:41 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:05:48 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:05:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:05:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:46:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:46:32 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:46:32 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:46:32 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:46:40 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:46:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:49:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:49:26 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:49:26 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:49:26 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:49:32 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:49:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:49:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:50:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:50:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:50:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:50:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:51:00 UTC] PHP Warning:  Undefined array key 42 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:51:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:51:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:57:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:57:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:57:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:57:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:57:44 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:57:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:57:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:59:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 13:59:29 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 13:59:29 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 13:59:29 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 13:59:35 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 13:59:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:29:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 14:29:43 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 14:29:43 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 14:29:43 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 14:29:49 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:29:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:31:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 14:31:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 14:31:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 14:31:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 14:31:36 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:31:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:31:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:38:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 14:38:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 14:38:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 14:38:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 14:39:05 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:39:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:40:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 14:40:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 14:40:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 14:40:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 14:41:01 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:41:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:41:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:44:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 14:44:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 14:44:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 14:44:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 14:45:04 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 14:45:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:11:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 15:11:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 15:11:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 15:11:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 15:11:14 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:11:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:11:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:12:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 15:12:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 15:12:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 15:12:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 15:12:48 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:12:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:12:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:12:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[03-Feb-2024 15:12:51 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[03-Feb-2024 15:12:51 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[03-Feb-2024 15:12:51 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[03-Feb-2024 15:12:57 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:12:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[03-Feb-2024 15:12:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 05:41:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[04-Feb-2024 05:41:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[04-Feb-2024 05:41:52 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[04-Feb-2024 05:41:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[04-Feb-2024 05:41:53 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[04-Feb-2024 05:41:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[04-Feb-2024 05:44:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[04-Feb-2024 05:44:12 UTC] PHP Warning:  Undefined array key "free_text4" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 380
+[04-Feb-2024 05:44:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 380
+[04-Feb-2024 05:44:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[04-Feb-2024 05:44:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[04-Feb-2024 05:44:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[04-Feb-2024 05:44:14 UTC] PHP Warning:  Undefined array key "free_text4" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 1068
+[04-Feb-2024 05:44:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 1068
+[04-Feb-2024 05:44:34 UTC] PHP Warning:  Undefined array key 44 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 05:44:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 05:44:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 05:44:34 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 05:44:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 05:44:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 08:19:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[04-Feb-2024 08:19:31 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[04-Feb-2024 08:19:31 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[04-Feb-2024 08:19:31 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[04-Feb-2024 08:19:37 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 08:19:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[04-Feb-2024 08:19:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[05-Feb-2024 07:59:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[05-Feb-2024 07:59:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[05-Feb-2024 07:59:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[05-Feb-2024 07:59:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[05-Feb-2024 07:59:27 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[05-Feb-2024 07:59:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[05-Feb-2024 07:59:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:17:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[06-Feb-2024 08:47:18 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 822
+[06-Feb-2024 08:47:27 UTC] PHP Parse error:  syntax error, unexpected token "\" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 822
+[06-Feb-2024 08:50:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[06-Feb-2024 08:51:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 08:51:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 08:51:00 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 08:51:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 08:51:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 08:51:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 08:51:04 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:51:04 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:51:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:57:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[06-Feb-2024 08:57:18 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 08:57:18 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 08:57:18 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 08:57:19 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 08:57:19 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 08:57:19 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 08:57:20 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:57:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:57:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:57:20 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:57:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 08:57:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 09:06:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[06-Feb-2024 09:06:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 09:06:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 09:06:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 09:06:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 09:06:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 09:06:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 09:06:11 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 09:06:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 09:06:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 09:06:11 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 09:06:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 09:06:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 10:59:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[06-Feb-2024 10:59:11 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[06-Feb-2024 10:59:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[06-Feb-2024 10:59:12 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[06-Feb-2024 10:59:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[06-Feb-2024 10:59:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[06-Feb-2024 11:00:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 11:00:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 11:00:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 11:00:10 UTC] PHP Warning:  Undefined array key 45 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 11:00:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 11:00:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 15:47:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[06-Feb-2024 15:47:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 15:47:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 15:47:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 15:47:10 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 15:47:10 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 15:47:10 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 15:47:11 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 15:47:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 15:47:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 15:47:11 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 15:47:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 15:47:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:29:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[06-Feb-2024 21:29:47 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 21:29:47 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 21:29:47 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 21:29:48 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[06-Feb-2024 21:29:48 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[06-Feb-2024 21:29:48 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[06-Feb-2024 21:29:50 UTC] PHP Warning:  Undefined array key 21 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:29:50 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:29:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[06-Feb-2024 21:34:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[06-Feb-2024 21:34:15 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[06-Feb-2024 21:34:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[06-Feb-2024 21:34:17 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[06-Feb-2024 21:34:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 10:39:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 10:39:11 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 10:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 10:39:12 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 10:39:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 11:03:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 11:03:25 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 11:03:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 11:03:27 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 11:03:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:15:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:15:15 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:15:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:15:17 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:15:17 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:15:17 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:15:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:17:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 12:18:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 12:20:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:20:44 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:20:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:20:47 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:20:47 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:20:47 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:20:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:20:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 12:24:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:24:26 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:24:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:24:29 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:24:29 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:24:29 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:24:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:31:31 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:31:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 5
+[07-Feb-2024 12:31:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:31:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 5
+[07-Feb-2024 12:32:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:35:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:35:00 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:35:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:35:02 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:35:02 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:35:02 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:35:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:38:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 12:53:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:53:11 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:53:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:53:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:53:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:53:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:53:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:53:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:53:59 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:53:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:54:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:54:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:54:01 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:54:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:58:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 12:58:36 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:58:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 12:58:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:58:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:58:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:58:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 12:58:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 12:58:40 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 12:58:40 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:58:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 12:58:41 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:58:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:58:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:58:41 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:58:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 12:58:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:01:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:05:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:07:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:14:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:14:20 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:14:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:14:22 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:14:22 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:14:22 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 910
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:14:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:17:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:17:26 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:17:26 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:17:28 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:17:28 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:17:28 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:17:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:17:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:17:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:17:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:18:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:18:50 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:18:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:18:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:18:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:18:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Undefined array key 24 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:18:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:22:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:22:47 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:22:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:22:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:22:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:22:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:22:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:35:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:37:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:37:33 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:37:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:37:35 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:37:35 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:37:35 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:37:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:37:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:37:38 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:37:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:40:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:40:59 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:40:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:41:02 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:41:02 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:41:02 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:41:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:49:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 13:49:12 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:49:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 13:49:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:49:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:49:14 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 13:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:04:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[07-Feb-2024 14:04:18 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 14:04:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[07-Feb-2024 14:04:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 14:04:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 14:04:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:04:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[07-Feb-2024 14:05:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 16:41:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 21:07:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 21:13:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 21:20:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[07-Feb-2024 21:20:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:23:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:28:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:28:01 UTC] PHP Warning:  Undefined variable $html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[08-Feb-2024 12:33:07 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:33:07 UTC] PHP Warning:  Undefined variable $html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[08-Feb-2024 12:34:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:41:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:43:45 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:43:45 UTC] PHP Warning:  Undefined variable $content in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 512
+[08-Feb-2024 12:46:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:46:36 UTC] PHP Warning:  Undefined variable $content in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 512
+[08-Feb-2024 12:50:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:50:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:53:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:54:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 12:55:35 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:01:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:01:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:05:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:13:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:13:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:13:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:22:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:22:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:22:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:32:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:32:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:32:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:35:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:38:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:41:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:42:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:43:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:45:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:47:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:48:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:48:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:48:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Writer/MetadataWriter.php on line 474
+[08-Feb-2024 13:51:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $content in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 514
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 528
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 528
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 533
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 533
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 538
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 538
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 548
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 548
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 553
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 553
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 563
+[08-Feb-2024 13:51:36 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 563
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 568
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 568
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 573
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 573
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 578
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 578
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 583
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 583
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 588
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 588
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_prefix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 593
+[08-Feb-2024 13:51:37 UTC] PHP Warning:  Undefined variable $normal_subfix_html in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 593
+[08-Feb-2024 14:12:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 14:21:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 14:24:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 14:26:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 14:27:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 14:39:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 16:20:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 16:20:00 UTC] PHP Warning:  Undefined array key "trans" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 10
+[08-Feb-2024 16:20:00 UTC] PHP Warning:  Undefined array key "trans" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 18
+[08-Feb-2024 16:38:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 3
+[08-Feb-2024 16:41:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duo Profile.php on line 4
+[08-Feb-2024 17:00:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[08-Feb-2024 17:00:37 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[08-Feb-2024 17:00:39 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[08-Feb-2024 17:00:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[08-Feb-2024 17:02:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[08-Feb-2024 17:02:52 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[08-Feb-2024 17:02:55 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[08-Feb-2024 17:02:55 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[08-Feb-2024 17:02:55 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[08-Feb-2024 17:02:59 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[08-Feb-2024 17:02:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 05:49:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[09-Feb-2024 05:49:11 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[09-Feb-2024 05:49:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[09-Feb-2024 05:49:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 05:49:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 05:49:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 05:49:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 05:49:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 05:49:40 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[09-Feb-2024 05:49:42 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 05:49:42 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 05:49:42 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 05:49:45 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 05:49:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 05:51:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 05:51:29 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[09-Feb-2024 05:51:31 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 05:51:31 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 05:51:31 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 05:51:34 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 05:51:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 06:03:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Duoprofil.php on line 4
+[09-Feb-2024 06:03:27 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 06:03:27 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 06:03:27 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 06:03:28 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 06:03:28 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 06:03:28 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 06:03:30 UTC] PHP Warning:  Undefined array key 21 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:03:30 UTC] PHP Warning:  Undefined array key 22 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:03:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:04:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 4
+[09-Feb-2024 06:04:02 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[09-Feb-2024 06:04:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 617
+[09-Feb-2024 06:04:06 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 06:04:06 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 06:04:06 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Undefined array key "free_text15" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Medarbeiderprofil.php on line 916
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Undefined array key 23 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 06:04:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[09-Feb-2024 08:25:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 08:25:09 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 513
+[09-Feb-2024 08:25:11 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 08:25:11 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 08:25:11 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 08:25:15 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 08:25:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 08:37:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 08:37:05 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 08:37:07 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 08:37:07 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 08:37:07 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 08:37:10 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1103
+[09-Feb-2024 08:37:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1103
+[09-Feb-2024 08:47:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 08:47:24 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 08:49:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 08:49:38 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 08:53:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 08:53:19 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 08:53:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 08:53:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 08:53:21 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 08:53:24 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1104
+[09-Feb-2024 08:53:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1104
+[09-Feb-2024 09:02:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 09:02:56 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 09:02:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 09:02:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 09:02:58 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 09:03:02 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 09:03:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 09:05:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 09:05:46 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 09:05:53 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 09:05:53 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 09:05:53 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 09:05:59 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 09:05:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:01:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 10:01:57 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 10:03:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 10:03:11 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 10:03:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 10:03:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 10:03:13 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 10:03:17 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:03:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:04:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 10:04:46 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 10:04:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 10:04:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 10:04:49 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 10:04:52 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:04:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:07:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 10:07:28 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 10:07:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 10:07:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 10:07:30 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 10:07:34 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:07:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:10:01 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 5
+[09-Feb-2024 10:10:01 UTC] PHP Warning:  Undefined variable $ratingData in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 510
+[09-Feb-2024 10:10:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[09-Feb-2024 10:10:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[09-Feb-2024 10:10:04 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[09-Feb-2024 10:10:08 UTC] PHP Warning:  Undefined array key "free_text10Content" in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[09-Feb-2024 10:10:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Lederprofil.php on line 1106
+[11-Feb-2024 10:19:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/report_types/mlc_pdf_report_Hovedrapport.php on line 3
+[11-Feb-2024 10:19:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 7699
+[11-Feb-2024 10:19:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6399
+[11-Feb-2024 10:19:08 UTC] PHP Warning:  Undefined array key "y1" in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 6600
+[11-Feb-2024 10:19:14 UTC] PHP Warning:  Undefined array key 47 in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Feb-2024 10:19:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619
+[11-Feb-2024 10:19:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/semjecom/public_html/nogd.no/vendor/mpdf/vendor/mpdf/mpdf/src/Mpdf.php on line 9619

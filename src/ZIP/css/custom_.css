@@ -1,0 +1,359 @@
+/*.btn-success {
+    color: #fff;
+    background-color: #529a86;
+    border-color: #529a86;
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #fcd2a8;
+    border-color: #fcd2a8;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #b0f1fb;
+    border-color: #b0f1fb;
+}*/
+.riskTable table, .riskTable th, .riskTable td, .riskTable tr {
+  border: 1px solid black;
+  padding: 4px;
+}
+.riskTable td {
+  text-align: center;
+}
+.riskTable th {
+  text-align: left;
+}
+.user-content-row-modal {
+    margin-top: 10px !important;
+    margin-top: 10px !important;
+}
+
+.tos-modal {
+        min-height: 600px;
+        margin: -5px;
+        border: 1px solid lightgray;
+        border-radius: 5px;
+        background-color: white;
+}
+
+.w3-modal {
+    z-index: 3;
+    display: block;
+    padding-top: 100px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4)
+}
+
+.w3-modal-content {
+    margin: auto;
+    background-color: #fff;
+    position: relative;
+    padding: 0;
+    outline: 0;
+    width: 700px;
+    height: 400px;
+    border-radius: 2%;
+}
+
+.w3-modal-iframe {
+    width: 100%;
+    height: 300px;
+}
+
+.w3-button-holder {
+   width: 100%;
+   text-align: center !important;
+   padding: 10px;
+}
+
+.w3-container, .w3-panel {
+    padding: 0.01em 16px;
+    border-radius: 5% !important;
+}
+
+
+.w3-btn, .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.w3-modal iframe {
+    border: none;
+}
+
+.navigation-bar .user-profile .user-details {
+    position: relative;
+    color: white;
+    overflow: hidden;
+    margin-left: 10px;
+}
+
+.navigation-bar .user-profile .user-image {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 64px;
+    height: 64px;
+    border: 0px solid black;
+     border-radius: 2px;
+    overflow: hidden;
+}
+
+.main-tos-ctn {
+    background-color: white !important;
+}
+
+.main-tos-ctn .tos-title {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+    padding: 10px;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    font-size: 20px;
+}
+
+.tos-data {
+    padding: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.tos-con-text {
+    color:red;
+    font-style:italic;
+    font-weight:bold
+}
+
+/********** Data Table *********/
+.all-tickets {
+    margin: 10px auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+.all-tickets-widget-title {
+    width: calc(100%+30px);
+    margin: 0px -15px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+hr {
+    background-color: black;
+}
+ .dataTables_wrapper {
+     background-color: black;
+     padding:10px;
+     border-radius: 10px;
+     margin: 0px 0px 10px 0px;
+
+ }
+ .dataTables_wrapper .dataTables_info {
+     color: white;
+ }
+
+ .dataTables_wrapper .dataTables_paginate .paginate_button {
+     color: white;
+ }
+
+ a {
+    color: black !important;
+ }
+
+ table.dataTable tr.dtrg-group.dtrg-level-0 td {
+     background-color : white;
+     color: black;
+ }
+
+ table.dataTable tr.dtrg-group.dtrg-level-1 td {
+     background-color: darkgrey !important;
+     color: white;
+     font-size: 14px;
+     font-weight: bold;
+ }
+
+table.dataTable thead tr {
+    background-image: linear-gradient(black, darkgrey);
+     color: white;
+     border-radius: 10px;
+}
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0.5em;
+    border: 2px solid #1F7BBC;
+}
+.dataTables_wrapper .dataTables_filter label {
+    color: white;
+}
+tr.odd {
+    background-color: #ffffff !important;
+}
+tr.even {
+    background-color: #e6faff !important;
+}
+tr.even:hover, tr.odd:hover {
+    opacity: 0.8;
+}
+/*******************************/
+
+/*********** Progressbar ********/
+
+.progress {
+    background-color: #e8f8f8;
+    text-align: center;
+}
+
+.ui-progressbar {
+    position: relative;
+    border: 1px solid blue;
+  }
+  .progress-label {
+    position: absolute;
+    left: 50%;
+    top: 4px;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+  }
+
+
+
+
+/**************** ticket question navigation button ******************/
+
+.table-fixed-header {
+     overflow-y: fixed;
+     max-height: 1000px !important;
+    border-top: 2px solid lightgray;
+    box-shadow: 2px 2px 5px lightgrey;
+}
+
+.btn-info.disabled, .btn-info:disabled {
+    color: #fff;
+    background-color: white;
+    border-color: white;
+    display:none;
+}
+
+/*************************Un answered questions *********************/
+
+.unansered-question-no {
+    margin:5px;
+    border-radius:10%;
+    padding-left:8px;
+    background-color:yellow;
+    padding-right:5px;
+}
+
+#unanswerd-qtable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  #unanswerd-qtable td, #customers th {
+    border: 1px solid #ddd;
+    padding: 4px;
+  }
+
+  #unanswerd-qtable tr:nth-child(even){background-color: #f2f2f2;}
+
+  #unanswerd-qtable tr:hover {background-color: #ddd;}
+
+  #unanswerd-qtable th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #1F7BBC;
+    color: white;
+  }
+
+  /***********************************/
+
+  .pricing-link {
+    width: 100%;
+    color: white;
+  }
+
+  #cookieConsent {
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    min-height: 15%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #111;
+    padding: 8px 0 8px 30px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    z-index: 9999;
+    text-align: center;
+    vertical-align: middle;
+    margin: 25px;
+}
+
+#cookieConsent a {
+    color: #f0f0f0 !important;
+    text-decoration: none;
+    margin: 5px;
+}
+
+#closeCookieConsent {
+    float: right;
+    cursor: pointer;
+    height: 30px;
+    margin: -5px 0 0 0;
+    padding: 5px;
+    font-weight: bold;
+    text-align: right;
+    color:#888;
+}
+
+#closeCookieConsent:hover {
+    color: #aaa !important;
+}
+
+#cookieConsent a.cookieConsentOK {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 0 20px;
+    cursor: pointer;
+    float: none;
+    margin: 0 60px 0 10px;
+}
+#cookieConsent a.cookieConsentOK:hover {
+    background-color: #E0C91F;
+}
+p.support-text {
+  color: #fff;
+  font-size: .8em;
+}
+p.support-text a {
+  color: #fff;
+  text-decoration: underline;
+}

@@ -1,0 +1,21 @@
+body {
+  min-height: 800px;
+  background-color: #000000;
+}
+@media screen and (min-width: 576px) {
+  body {
+    min-height: 100vh;
+  }
+}
+
+.super-container {
+  position: relative;
+  min-height: 800px;
+}
+@media screen and (min-width: 576px) {
+  .super-container {
+    min-height: 100vh;
+  }
+}
+
+/*# sourceMappingURL=header.css.map */

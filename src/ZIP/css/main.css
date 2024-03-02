@@ -1,0 +1,355 @@
+.login-parent {
+  position: absolute;
+  top: 50%;
+  left: 15px;
+  right: 15px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+@media screen and (min-width: 576px) {
+  .login-parent {
+    left: calc(50% + 15px);
+    left: -webkit-calc(50% - 15px);
+    left: -moz-calc(50% - 15px);
+    width: 550px;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .login-ctn {
+    width: 550px;
+  }
+}
+.login-ctn .login-logo {
+  position: relative;
+  min-height: 250px;
+  margin-top: 50px;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .login-logo {
+    margin-top: 0px;
+    min-height: auto;
+  }
+}
+.login-ctn .login-logo img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: auto;
+  height: 80%;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .login-logo img {
+    max-width: 80%;
+    height: auto;
+  }
+}
+.login-ctn .login-form {
+  border: none;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .login-form {
+    border-right: 2px solid rgba(255, 255, 255, 0.8);
+    padding-right: 5%;
+  }
+}
+.login-ctn .login-form .input-group-text {
+  background-color: white;
+}
+.login-ctn .login-form .login-input {
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.login-ctn .login-form .login-input:focus {
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.login-ctn .login-form .login-buttons {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.login-ctn .login-form .login-buttons a {
+  color: white;
+}
+.login-ctn .login-form .login-buttons input[type=submit] {
+  float: right;
+}
+.login-ctn .login-form .status {
+  color: lightyellow;
+  margin-top: 30px;
+  font-style: italic;
+}
+.login-ctn .forgot-pass-form,
+.login-ctn .pin-code-form {
+  display: none;
+  border: none;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .forgot-pass-form,
+  .login-ctn .pin-code-form {
+    border-right: 2px solid rgba(255, 255, 255, 0.8);
+    padding-right: 5%;
+  }
+}
+.login-ctn .forgot-pass-form .input-group-text,
+.login-ctn .pin-code-form .input-group-text {
+  background-color: white;
+}
+.login-ctn .forgot-pass-form .forgot-pass-input,
+.login-ctn .pin-code-form .pin-code-input {
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.login-ctn .forgot-pass-form .forgot-pass-input:focus,
+.login-ctn .pin-code-form .pin-code-input:focus {
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.login-ctn .forgot-pass-form .forgot-pass-buttons,
+.login-ctn .pin-code-form .forgot-pass-buttons {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.login-ctn .forgot-pass-form .forgot-pass-buttons a,
+.login-ctn .pin-code-form .forgot-pass-buttons a {
+  color: white;
+}
+.login-ctn .forgot-pass-form .forgot-pass-buttons input[type=submit],
+.login-ctn .pin-code-form .forgot-pass-buttons input[type=submit] {
+  float: right;
+}
+.login-ctn .forgot-pass-form .status,
+.login-ctn .pin-code-form .status {
+  color: lightyellow;
+  margin-top: 30px;
+  font-style: italic;
+}
+.login-ctn .pass-reset-form {
+  border: none;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .pass-reset-form {
+    border-right: 2px solid rgba(255, 255, 255, 0.8);
+    padding-right: 5%;
+  }
+}
+.login-ctn .pass-reset-form .input-group-text {
+  background-color: white;
+}
+.login-ctn .pass-reset-form .pass-reset-input {
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.login-ctn .pass-reset-form .pass-reset-input:focus {
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.login-ctn .pass-reset-form .pass-reset-buttons {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.login-ctn .pass-reset-form .pass-reset-buttons a {
+  color: white;
+}
+.login-ctn .pass-reset-form .pass-reset-buttons input[type=submit] {
+  float: right;
+}
+.login-ctn .pass-reset-form .status {
+  color: lightyellow;
+  margin-top: 30px;
+  font-style: italic;
+}
+.login-ctn .signup-form {
+  display: none;
+  border: none;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .signup-form {
+    border-right: 2px solid rgba(255, 255, 255, 0.8);
+    padding-right: 5%;
+  }
+}
+.login-ctn .signup-form .input-group-text {
+  background-color: white;
+}
+.login-ctn .signup-form .signup-input {
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.login-ctn .signup-form .signup-input:focus {
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.login-ctn .signup-form .signup-terms-label {
+  color: white;
+}
+.login-ctn .signup-form .signup-terms-label a {
+  color: white;
+  text-decoration: underline;
+}
+.login-ctn .signup-form .signup-terms-label a:hover {
+  color: white;
+}
+.login-ctn .signup-form .signup-buttons {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.login-ctn .signup-form .signup-buttons a {
+  color: white;
+}
+.login-ctn .signup-form .signup-buttons input[type=submit] {
+  float: right;
+}
+.login-ctn .signup-form .status {
+  color: lightyellow;
+  margin-top: 30px;
+  font-style: italic;
+}
+.login-ctn .consultant-form {
+  display: none;
+  border: none;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .consultant-form {
+    border-right: 2px solid rgba(255, 255, 255, 0.8);
+    padding-right: 5%;
+  }
+}
+.login-ctn .consultant-form .input-group-text {
+  background-color: white;
+}
+.login-ctn .consultant-form .consultant-input {
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.login-ctn .consultant-form .consultant-input:focus {
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.login-ctn .consultant-form .signup-terms-label {
+  color: white;
+}
+.login-ctn .consultant-form .signup-terms-label a {
+  color: white;
+  text-decoration: underline;
+}
+.login-ctn .consultant-form .signup-terms-label a:hover {
+  color: white;
+}
+.login-ctn .consultant-form .signup-buttons {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.login-ctn .consultant-form .signup-buttons a {
+  color: white;
+}
+.login-ctn .consultant-form .signup-buttons input[type=submit] {
+  float: right;
+}
+.login-ctn .consultant-form .status {
+  color: lightyellow;
+  margin-top: 30px;
+  font-style: italic;
+}
+.login-ctn .register-company-form {
+  display: none;
+  border: none;
+}
+@media screen and (min-width: 576px) {
+  .login-ctn .register-company-form {
+    border-right: 2px solid rgba(255, 255, 255, 0.8);
+    padding-right: 5%;
+  }
+}
+.login-ctn .register-company-form .input-group-text {
+  background-color: white;
+}
+.login-ctn .register-company-form .register-company-input {
+  height: 50px;
+  background-color: white;
+  border: none;
+}
+.login-ctn .register-company-form .register-company-input:focus {
+  box-shadow: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.login-ctn .register-company-form .register-company-terms-label {
+  color: white;
+}
+.login-ctn .register-company-form .register-company-terms-label a {
+  color: white;
+  text-decoration: underline;
+}
+.login-ctn .register-company-form .register-company-terms-label a:hover {
+  color: white;
+}
+.login-ctn .register-company-form .register-company-buttons {
+  color: white;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.login-ctn .register-company-form .register-company-buttons a {
+  color: white;
+}
+.login-ctn .register-company-form .register-company-buttons input[type=submit] {
+  float: right;
+}
+.login-ctn .register-company-form .status {
+  color: lightyellow;
+  margin-top: 30px;
+  font-style: italic;
+}
+
+.main-tos-ctn {
+  position: relative;
+  width: 95%;
+  margin: 0px auto 10px auto;
+  padding: 65px 10px 10px 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.main-tos-ctn .tos-title {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 50px;
+  padding: 10px;
+  color: #555555;
+  background-color: lightgray;
+  text-align: center;
+  font-size: 20px;
+}
+
+.footer-container .footer-row {
+  padding-top: 10px;
+  background-color: whitesmoke;
+}
+.footer-container .footer-row .footer-menu ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.footer-container .footer-row .footer-menu ul li {
+  color: #555555;
+  font-weight: bold;
+  font-style: italic;
+}
+.footer-container .footer-row .footer-lang {
+  float: right;
+  max-width: 300px;
+}
+
+/*# sourceMappingURL=main.css.map */

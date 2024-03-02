@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twilio/sdk": "^6.40",
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}

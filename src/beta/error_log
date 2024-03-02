@@ -1,0 +1,6 @@
+[07-Feb-2024 09:13:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/semjecom/public_html/nogd.no/beta/index.php on line 2
+[07-Feb-2024 09:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/semjecom/public_html/nogd.no/beta/database.php:176
+Stack trace:
+#0 /home/semjecom/public_html/nogd.no/beta/index.php(186): Database->get_multiple_data()
+#1 {main}
+  thrown in /home/semjecom/public_html/nogd.no/beta/database.php on line 176

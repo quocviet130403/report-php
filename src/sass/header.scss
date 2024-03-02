@@ -1,0 +1,17 @@
+@import "_general";
+
+body{
+    min-height: 800px;
+    background-color: #000000;
+    //background-image: radial-gradient(#222222, #000000);
+    @media screen and (min-width: $xsmall){
+        min-height: 100vh;
+    }
+}
+.super-container{
+    position: relative;
+    min-height: 800px;
+    @media screen and (min-width: $xsmall){
+        min-height: 100vh;
+    }
+}

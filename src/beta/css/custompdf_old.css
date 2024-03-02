@@ -1,0 +1,74 @@
+#one {
+  grid-area: r1-1;
+}
+#tow {
+  grid-area: r1-2;
+  padding-left: 23vw;
+  padding-top: 8vw;
+  font-size: 2.5vw;
+}
+#three {
+  grid-area: r2-1;
+  justify-self: start;
+  align-self: center;
+  font-size: 7.75vw;
+  font-weight: bold;
+  padding-left: 3%;
+}
+#four {
+  grid-area: r3-1;
+  padding: 1vw;
+  justify-self: start;
+  align-self: end;
+  margin-top: 7.5%;
+  margin-left: 1.2%;
+}
+#five {
+  grid-area: r3-2;
+  position: relative;
+}
+
+#one img {
+  width: 100%;
+}
+
+#four p {
+  text-align: center;
+  width: fit-content;
+}
+
+#four p:nth-child(1) {
+  font-size: 4vw;
+}
+
+#four p:nth-child(3) {
+  font-size: 2.5vw;
+}
+
+#four p:nth-child(2),
+#four p:nth-child(3) {
+  margin-left: 5vw;
+}
+
+#four .center {
+  /* border: 5px solid black; */
+  font-size: 3vw;
+  font-weight: bold;
+  padding: 0.5vw 7vw;
+}
+
+#five img {
+  width: 95%;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+#five p {
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  font-size: 2.75vw;
+  color:blue;
+  font-weight: 600;
+}
